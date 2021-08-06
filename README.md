@@ -15,4 +15,4 @@ Link to Password Generator:
 https://stimmerman21.github.io/Javalavahw3/
 
 
-![Screenshot](password.PNG)
+![Screenshot](/assets/password.PNG)
