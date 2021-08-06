@@ -11,3 +11,9 @@ This assignment was to complete the Javascript code so that the user can run a r
 3.Javascript (Only program edited for this assignment all other code was written)
 
 
+Link to Password Generator:
+
+http://127.0.0.1:5500/Develop/index.html
+
+
+![Screenshot](Password-generator.PNG)
