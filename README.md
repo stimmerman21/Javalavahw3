@@ -12,7 +12,7 @@ This assignment was to complete the Javascript code so that the user can run a r
 
 Link to Password Generator:
 
-http://127.0.0.1:5500/Develop/index.html
+https://stimmerman21.github.io/Javalavahw3/
 
 
 ![Screenshot](password.PNG)
